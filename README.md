@@ -22,14 +22,13 @@ An end-to-end TinyML pipeline built using Edge Impulse and the UCI HAR Smartphon
 ## 🖼️ Visual Evaluation Metrics
 
 ### DSP Spectral Analysis
-![DSP Features](dsp_spectral_features.png)
+![DSP Features](dsp_spectral_features.png.png)
 
 ### Model Accuracy & Confusion Matrix
-![Confusion Matrix](confusion_matrix_accuracy.png)
+![Confusion Matrix](confusion_matrix_accuracy.png.png)
 
 ### On-Device Hardware Benchmarks
-![On-Device Performance](on_device_performance_benchmarks.png)
-
+![On-Device Performance](on_device_performance_benchmarks.png.png)
 ## 📁 Repository Files
 
 * `cpp_edge_library.zip`: Standalone C++ deployment package for microcontrollers.
